@@ -22,7 +22,7 @@ mininet> xterm h1 h2
 Run ./server on h1 and ./client on h2.
 
 Output
-![Assignment 1](./assignment_1/assignment_1.png)
+![Assignment 1](./Assignment1/output.png)
 
 
 
@@ -52,7 +52,7 @@ sudo mn --topo single,4
 mininet> xterm h1 h2 h3 h4
 
 Output
-![Assignment 2](./assignment_2/assignment_2.png)
+![Assignment 2](./Assignment%202/output.png)
 
 
 ---
@@ -191,7 +191,7 @@ gcc traffic.c -o traffic
 sudo ./traffic
 
 Output
-![Assignment 6](./assignment_6/assignment_6.png)
+![Assignment 6](./Assignment%206/output.png)
 
 
 
@@ -210,7 +210,7 @@ gcc client.c -o client
 sudo mn --topo single,2
 
 Output
-![Assignment 7](./assignment_7/assignment_7.png)
+![Assignment 7](./Assignment%207/output.png)
 
 
 
@@ -229,7 +229,7 @@ gcc client.c -o client
 sudo mn --topo single,4
 
 Output
-![Assignment 8](./assignment_8/assignment_8.png)
+![Assignment 8](./Assignment%208/assignment_8.png)
 
 
 ---
@@ -249,7 +249,7 @@ gcc client.c -o client
 sudo mn
 
 Output
-![Assignment 9](./assignment_9/assignment_9.png)
+![Assignment 9](./Assignment%209/output.png)
 
 
 ---
@@ -270,7 +270,9 @@ sudo ./tcp
 sudo ./icmp
 
 Output
-![Assignment 10](./assignment_10/assignment_10.png)
+![Assignment 10](./Assignment%2010/output1.png)
+![Assignment 10](./Assignment%2010/output2.png)
+
 
 
 ---
